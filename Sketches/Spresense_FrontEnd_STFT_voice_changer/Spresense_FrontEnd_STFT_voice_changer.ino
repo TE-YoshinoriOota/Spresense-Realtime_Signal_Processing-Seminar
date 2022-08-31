@@ -102,6 +102,7 @@ void signal_process(int16_t* mono_input, int16_t* stereo_output, uint32_t sample
   arm_q15_to_float(&q15_mono[0], &pTmp[0], SAMPLE_SIZE);
   arm_rfft_fast_f32(&S, &pTmp[0], &p1[0], 0); //  fft, bitReverse
 
+  memset(&p2[0], 0, SAMPLE_SIZE*sizeof(float));
   memcpy(&p2[pitch_shift*2], &p1[0], (SAMPLE_SIZE/2-pitch_shift*2)*sizeof(float));
 
   arm_rfft_fast_f32(&S, &p2[0], &pTmp[0], 1); // ifft, bitReverse
