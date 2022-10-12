@@ -2,6 +2,8 @@
 Spresense Realtime Signal Processing Seminar materials
 
 ## Seminar material
+[Get started Real-time Signal Processing using Sony Spresense](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar/blob/main/Documents/Get%20started%20Realtime%20Signal%20Processing%20with%20Sony%20Spresense.pdf)
+
 [Spresenseではじめるリアルタイム信号処理プログラミング](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar/blob/main/Documents/Spresense%20%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E4%BF%A1%E5%8F%B7%E5%87%A6%E7%90%86%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0.pdf)
 
 ## Contents of Sketches
