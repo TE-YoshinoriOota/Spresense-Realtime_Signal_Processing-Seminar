@@ -29,5 +29,5 @@ Spresense Realtime Signal Processing Seminar materials
 
 ## License
 - Source codes are under LGPL V2.1
-- The textbook and the datasets for the neural network console are CC-BY-SA <br>
+- The textbook is under CC-BY-SA <br>
 ![image](https://github.com/user-attachments/assets/b4e995f8-34ec-491f-924f-9cb25171d59b)
