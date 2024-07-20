@@ -25,3 +25,9 @@ Spresense Realtime Signal Processing Seminar materials
 |[Spresense_FrontEnd_STFT_supersonic](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar/blob/main/Sketches/Spresense_FrontEnd_STFT_supersonic/Spresense_FrontEnd_STFT_supersonic.ino)|Super Sonic Hearable Filter by shifting FFT data|
 |[Spresense_supersonic_communicator](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar/tree/main/Sketches/Spresense_supersonic_communicator)|Super Sonic FSK communicator using Short Time Frouie Transform. This sample using multi cores. Main Core is implemented as a Receiver of FSK Super Sonic. Sub Core is implemented as a Transmitter of FSK Super Sonic|
 |[Spresense_rfft_wav_recording](https://github.com/TE-YoshinoriOota/Spresense-Realtime_Signal_Processing-Seminar/blob/main/Sketches/Spresense_rfft_wav_recording/Spresense_rfft_wav_recording.ino)|This sample can record 48kHz sounds to an SD card and FFT calculation simultaneously|
+
+
+## License
+- Source codes are under LGPL V2.1
+- The textbook and the datasets for the neural network console are CC-BY-SA <br>
+![image](https://github.com/user-attachments/assets/b4e995f8-34ec-491f-924f-9cb25171d59b)
